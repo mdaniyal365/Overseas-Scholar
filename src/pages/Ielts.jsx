@@ -1,6 +1,6 @@
 import React from "react";
 
-function IeltsPreparation() {
+function Ielts() {
   return (
     <div>
       <section>
@@ -122,4 +122,4 @@ function IeltsPreparation() {
   );
 }
 
-export default IeltsPreparation;
+export default Ielts;
