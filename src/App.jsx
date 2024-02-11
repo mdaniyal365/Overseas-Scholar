@@ -5,7 +5,7 @@ import IeltsPreparation from "./pages/ieltsPreparation"
 export default function App() {
   return (
   <>
-  {/* <NavBar/> */}
+  <NavBar/>
   {/* <IeltsPreparation/> */}
   <Ielts/>
   <Footer/>
